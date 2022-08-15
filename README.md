@@ -16,4 +16,5 @@ Normal vs Abnormal condition (Tachycardia and Bradycardia -Threshold can be chan
 Data:
 ECG signal - 3 files
 Each file contains Lead I, Lead III, avR,	avL,	avF,	V1,	V2,	V3,	V4,	V5,	and V6 signals columnwise.
-Signal taken around 10 to 15 second
+Signal taken around 10 to 15 second. 
+The data is taken in a Lab setup using an ECG circuit done on a breadboard with the help of Gel electrodes and DSO
